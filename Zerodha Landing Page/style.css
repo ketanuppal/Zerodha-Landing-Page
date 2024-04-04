@@ -1,0 +1,81 @@
+.logo {
+  display: flex;
+  justify-content: left;
+  margin: 10px;
+  padding-left: 150px;
+}
+
+#navbar {
+  display: flex;
+  font-size: large;
+  list-style: none;
+}
+
+a {
+  display: flex;
+  color: gray;
+  margin: 8px;
+  justify-content: right;
+}
+
+.home_img {
+  display: flex;
+  padding-left: 300px;
+  justify-content: center;
+}
+
+.btn {
+  background-color: rgb(10, 128, 245);
+  border: none;
+  border-radius: 5px;
+  color: white;
+  font-size: large;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-left: 45px;
+  padding-right: 40px;
+  margin-left: 650px;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(53, 56, 58);
+}
+
+h2 {
+  font-weight: lighter;
+}
+
+#atcl {
+  display: flex;
+  /* border: 2px solid black; */
+}
+
+.atcl_img {
+  margin-left: 130px;
+}
+
+.atcl_p {
+  margin-left: 40px;
+  padding-bottom: 0%;
+  font-size: large;
+}
+
+#atcl_head {
+  display: flex;
+  font-size: x-large;
+  justify-content: left;
+}
+
+#l {
+  border: 2px solid black;
+}
+
+#l1 {
+  border: 2px solid black;
+  margin: 0%;
+}
+
+#l2 {
+  border: 2px solid black;
+}
